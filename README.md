@@ -10,7 +10,5 @@ Knowledges:
     Code:           Python, Java, C#.
     Graphics:       Blender, Unity.
 
-I am open to collaborate in chatbots or IA projects base on languages.
-
 doomoller@gmail.com
 
